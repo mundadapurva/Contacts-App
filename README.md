@@ -35,7 +35,11 @@ flutter run
 
 ## Demo Video
 
-https://github.com/mundadapurva/Contacts-App/assets/84332986/7b6acf0a-b62a-428f-92ce-8a04c67a1314
+https://github.com/mundadapurva/Contacts-App/assets/84332986/8f92530b-e837-41fb-99bb-f8c943f2e7f3
+
+
+
+
 
 ## Raise an Issue or Suggest a Feature
 
